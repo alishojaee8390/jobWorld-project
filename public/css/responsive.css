@@ -1,0 +1,24 @@
+@media screen and (max-width:992px) {
+    .card {
+        width: 100% !important;
+    }
+    .header-main .header-main-title h1{
+        font-size: 40px !important;
+    }
+    .header-main .header-main-title h3{
+        font-size: 25px;
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .employer{
+        flex-direction: column;
+        
+    }
+    .employer .employer-summry{
+        margin-top: 10px;
+    }
+
+}
+
